@@ -1,4 +1,4 @@
-package com.wh.datastructure.btree;
+package com.wh.datastructure.tree;
 
 public class Test {
 	public static void main(String[] args) {

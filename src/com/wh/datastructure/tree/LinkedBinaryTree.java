@@ -1,4 +1,4 @@
-package com.wh.datastructure.btree;
+package com.wh.datastructure.tree;
 
 import java.util.Deque;
 import java.util.LinkedList;
@@ -104,11 +104,7 @@ public class LinkedBinaryTree implements BinaryTree{
 			//对右子树进行先序遍历
 			BinaryTree rightTree = new LinkedBinaryTree(root.rightChild);
 			rightTree.preOrderTraverse();
-		}
-		
-		
-		
-		
+		}	
 	}
 
 	//中序遍历

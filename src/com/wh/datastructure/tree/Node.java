@@ -1,4 +1,4 @@
-package com.wh.datastructure.btree;
+package com.wh.datastructure.tree;
 /**
  * 二叉树的节点
  * @author DELL
