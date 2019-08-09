@@ -2,7 +2,7 @@ package com.wh.datastructure.sort;
 
 import java.util.Arrays;
 
-public class Main {
+public class QuickSort {
 	public static int[] quickSort(int[] arr) {
 		if (arr.length == 0) {
 			return arr;
