@@ -1,5 +1,9 @@
 # Common-algorithm
 ***
+# 字符串
+* [字符串朴素模式匹配](/src/com/wh/datastructure/string/Match.java)  
+* [KMP算法](/src/com/wh/datastructure/string/Kmp.java)  
+
 # 树
 * [二叉树遍历](/src/com/wh/datastructure/tree/LinkedBinaryTree.java)  
 * [平衡二叉树左旋右旋双旋转操作](/src/com/wh/datastructure/avl/AVLTree.java)  
@@ -17,8 +21,7 @@
 # 排序
 * [冒泡排序](/src/com/wh/datastructure/sort/BubbleSort.java)    
 * [冒泡排序优化](/src/com/wh/datastructure/sort/BubbleSort2.java)  
-* [快速排序](/src/com/wh/datastructure/sort/QuickSort.java)  
+* [快速排序](/src/com/wh/datastructure/sort/QuickSort.java)[双指针][分治][递归]  
 * [快速排序优化（待补充）](/src/com/wh/datastructure/sort/QuickSort.java)  
-
 
 # 查找
