@@ -1,5 +1,8 @@
 # Common-algorithm
-***
+
+# 栈与队列
+
+
 # 字符串
 * [字符串朴素模式匹配](/src/com/wh/datastructure/string/Match.java)  
 * [KMP算法](/src/com/wh/datastructure/string/Kmp.java)  
@@ -23,5 +26,9 @@
 * [冒泡排序优化](/src/com/wh/datastructure/sort/BubbleSort2.java)  
 * [快速排序](/src/com/wh/datastructure/sort/QuickSort.java)[双指针][分治][递归]  
 * [快速排序优化（待补充）](/src/com/wh/datastructure/sort/QuickSort.java)  
+* [直接插入排序](/src/com/wh/datastructure/sort/InsertionSort.java)  
+* [希尔排序](/src/com/wh/datastructure/sort/ShellSort.java)  
+* [选择排序](/src/com/wh/datastructure/sort/SelectionSort.java)  
+
 
 # 查找
