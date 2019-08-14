@@ -1,7 +1,8 @@
 # Common-algorithm
 
 # 栈与队列
-
+* [两个栈实现一个队列](/src/com/wh/datastructure/string/StackToQueue.java)  
+* [两个队列实现一个栈](/src/com/wh/datastructure/string/StackToQueue.java)  
 
 # 字符串
 * [字符串朴素模式匹配](/src/com/wh/datastructure/string/Match.java)  
